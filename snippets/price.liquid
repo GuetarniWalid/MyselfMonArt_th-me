@@ -48,16 +48,18 @@
     <div class="price__regular{% if crossed_out_price %} align-items{% endif %} {% if block.settings.size != blank %}text__heading{% endif %} {{ block.settings.size }}">
       <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.regular_price' | t }}</span>
       {% if crossed_out_price %}
-      <s class="price-item price-item--regular crossed-out-price">
-        {{ price | minus: block.settings.reduction | money }}
-      </s>
+        <s class="price-item price-item--regular crossed-out-price">
+          {{ price | minus: block.settings.reduction | money }}
+        </s>
       {% endif %}
       <span class="price-item price-item--regular">
         {{ money_price }}
       </span>
-      <span class="crossed-out-price-reduction">
-        {{ block.settings.reduction | money_without_trailing_zeros }}
-      </span>
+      {% if crossed_out_price %}
+        <span class="crossed-out-price-reduction">
+          {{ block.settings.reduction | money_without_trailing_zeros }}
+        </span>
+      {% endif %}
     </div>
     {% if just_regular_price != true %}
       <div class="price__sale">
