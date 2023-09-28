@@ -93,3 +93,37 @@
   text-transform: uppercase;
   color: rgba(var(--color-foreground), 0.7);
 }
+
+.price .crossed-out-price {
+  font-size: 1.4rem;
+  margin-right: 1.3rem !important;
+  opacity: 0.8;
+}
+
+.price .align-items {
+  display: flex;
+  align-items: center;
+}
+
+.price .crossed-out-price-reduction {
+  background: #90EE90;
+  padding: 0.6rem 0.9rem 0.3rem 2.2rem;
+  position: relative;
+  clip-path: polygon(25% 0%, 100% 0%, 100% 100%, 25% 100%, 0% 50%);
+  font-size: 1.1rem;
+  border-radius: 5px;
+  margin-left: 1.3rem;
+}
+
+.price .crossed-out-price-reduction::before {
+  content: "";
+  display: block;
+  position: absolute;
+  z-index: 999;
+  top: 50%;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  transform: translate(-12px, -50%);
+  background: var(--section-background);
+}
