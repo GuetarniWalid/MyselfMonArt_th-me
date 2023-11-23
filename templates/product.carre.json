@@ -23,24 +23,52 @@
           "settings": {
           }
         },
+        "05ad1efb-5120-4113-abd3-9cc39c1a7420": {
+          "type": "rationale_promotion",
+          "disabled": true,
+          "settings": {
+            "description": "<p>Économiser 15 % sur tous les tableaux<\/p>",
+            "bold": true,
+            "background": "#f09b8a",
+            "color": "#ffffff",
+            "border_radius": 8
+          }
+        },
         "9f20570b-1a97-4c34-8758-c5af9b8d2cfc": {
           "type": "price",
           "settings": {
             "size": "h2",
+            "crossed_out_price": false,
+            "reduction": 948,
             "spacing": 2.4
+          }
+        },
+        "540caf52-7871-489f-a567-03e4895d92cf": {
+          "type": "countdown",
+          "disabled": true,
+          "settings": {
+            "justification": "<p><strong>Économiser 15 % sur tous les tableaux<\/strong><\/p>",
+            "start_year": 2023,
+            "start_month": 10,
+            "start_day": 18,
+            "start_hour": 0,
+            "end_year": 2023,
+            "end_month": 10,
+            "end_day": 24,
+            "end_hour": 0,
+            "justification_background": "#FFB6C1",
+            "text_color": "#ffffff",
+            "border_color": "#ffffff",
+            "wave_color": "#ffb6c1",
+            "timer_color": "#002e5d",
+            "show_before_promo": true,
+            "show_after_promo": true
           }
         },
         "9129d08f-6e7a-47bb-b2d7-ca87c43d09d1": {
           "type": "text",
           "settings": {
-            "text": "<p>✅ <strong>FACILITÉ DE PAIEMENT avec KLARNA<\/strong><\/p><p>💳 <strong>PAIEMENT EN 3X SANS FRAIS !<\/strong><\/p><p>🕒 <strong>COMMANDEZ MAINTENANT, PAYEZ PLUS TARD !<\/strong> <br\/><\/p>"
-          }
-        },
-        "caption": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "<p>{{ product.metafields.descriptors.subtitle.value }}<\/p>"
+            "text": "<p> ✔️ Livraison gratuite en 4 à 7 jours.<\/p><p> ✔️ Tableau fabriqué à la commande.<\/p><p>✔️ Plus de 1600 clients satisfaits.<br\/><\/p>"
           }
         },
         "c4d161c0-9ae0-415d-8d68-615b31bff35f": {
@@ -98,9 +126,10 @@
       "block_order": [
         "vendor",
         "title",
+        "05ad1efb-5120-4113-abd3-9cc39c1a7420",
         "9f20570b-1a97-4c34-8758-c5af9b8d2cfc",
+        "540caf52-7871-489f-a567-03e4895d92cf",
         "9129d08f-6e7a-47bb-b2d7-ca87c43d09d1",
-        "caption",
         "c4d161c0-9ae0-415d-8d68-615b31bff35f",
         "09bd0ce8-dfec-4d37-9f99-b06e314b81fa",
         "01739746-0e53-4617-8010-ea37a29a1133",

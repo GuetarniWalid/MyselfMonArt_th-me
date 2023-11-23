@@ -27,6 +27,8 @@
           "type": "price",
           "settings": {
             "size": "h2",
+            "crossed_out_price": false,
+            "reduction": 1000,
             "spacing": 1.6
           }
         },
@@ -39,6 +41,21 @@
             "content": "",
             "page": "guide-de-tailles"
           }
+        },
+        "b5c5591c-2618-4a26-97ea-0a54736fbf0b": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": "cart",
+            "show_payment_types": true,
+            "cart_background": "#002E5D",
+            "cart_color": "#ffffff",
+            "cart_border_radius": 8,
+            "cart_show_border": true,
+            "checkout_background": "#002E5D",
+            "checkout_color": "#ffffff",
+            "checkout_border_radius": 8,
+            "checkout_show_border": true
+          }
         }
       },
       "block_order": [
@@ -46,7 +63,8 @@
         "8600f603-2d6f-4191-8020-3678432ba1e5",
         "variant_picker",
         "9f20570b-1a97-4c34-8758-c5af9b8d2cfc",
-        "a70160ee-79ef-4eb9-8e65-ec87f898b506"
+        "a70160ee-79ef-4eb9-8e65-ec87f898b506",
+        "b5c5591c-2618-4a26-97ea-0a54736fbf0b"
       ],
       "settings": {
         "section_background": "#f6f2ec",
@@ -63,7 +81,9 @@
         "slider_buttons_color": "#0b50b5",
         "hide_variants": false,
         "enable_video_looping": false,
-        "enable_zoom": true
+        "enable_zoom": true,
+        "choose_image_to_show_in_serp": false,
+        "image_to_show_in_serp": 1
       }
     },
     "main-product-recommendations": {

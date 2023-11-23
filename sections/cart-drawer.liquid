@@ -57,8 +57,13 @@
           <div id="CartDrawer-CartItems" class="drawer__contents js-contents">
             {%- if cart != empty -%}
             <div class="subtotal">
-              <p class="h2">{{ 'sections.cart.subtotal' | t }}</p>
+              <p class="h2">
+                {{ 'sections.cart.subtotal' | t }}
+                </p>
               <p>
+                {%- if cart.discount_applications != blank -%}
+                  <s style="font-size:1.5rem">{{ cart.original_total_price | money }}</s> &nbsp;
+                {%- endif -%}
                 <span>{{ cart.total_price | money }}</span>
                     <span class="hidden">
                       <svg aria-hidden="true" focusable="false" role="presentation" class="spinner" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
@@ -183,9 +188,9 @@
 
                         <div class="cart-item__price-wrapper {{ item.variant.compare_at_price }}">
                           {%- if item.variant.compare_at_price != blank and item.variant.compare_at_price != item.final_line_price -%}
-                          <s class="price price--end">
-                            {{ item.variant.compare_at_price | money }}
-                          </s>
+                            <s class="price price--end">
+                              {{ item.variant.compare_at_price | money }}
+                            </s>
                           {%- endif -%}
                           <span class="price price--end">
                             {{ item.original_line_price | money }}

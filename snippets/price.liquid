@@ -49,7 +49,7 @@
       <span class="visually-hidden visually-hidden--inline">{{ 'products.product.price.regular_price' | t }}</span>
       {% if crossed_out_price %}
         <s class="price-item price-item--regular crossed-out-price">
-          {{ price | minus: block.settings.reduction | money }}
+          {{ price | plus: block.settings.reduction | money }}
         </s>
       {% endif %}
       <span class="price-item price-item--regular">

@@ -25,15 +25,51 @@
         },
         "9f20570b-1a97-4c34-8758-c5af9b8d2cfc": {
           "type": "price",
+          "disabled": true,
           "settings": {
             "size": "h2",
+            "crossed_out_price": true,
+            "reduction": 1480,
             "spacing": 1.6
+          }
+        },
+        "264af0ef-b9b7-4870-9ed2-2f3c7b6bf090": {
+          "type": "rationale_promotion",
+          "disabled": true,
+          "settings": {
+            "description": "<p>FRENCHDAYS20<\/p>",
+            "bold": true,
+            "background": "#A93514",
+            "color": "#ffffff",
+            "border_radius": 8
+          }
+        },
+        "00d46483-175b-469a-a481-9ef1fbb6f09c": {
+          "type": "countdown",
+          "disabled": true,
+          "settings": {
+            "justification": "<p><strong>Économiser 15 % sur tous les tableaux<\/strong><\/p>",
+            "start_year": 2023,
+            "start_month": 10,
+            "start_day": 18,
+            "start_hour": 0,
+            "end_year": 2023,
+            "end_month": 10,
+            "end_day": 24,
+            "end_hour": 0,
+            "justification_background": "#FFB6C1",
+            "text_color": "#ffffff",
+            "border_color": "#ffffff",
+            "wave_color": "#ffb6c1",
+            "timer_color": "#002e5d",
+            "show_before_promo": true,
+            "show_after_promo": true
           }
         },
         "ee6e4064-ed33-4a00-b99f-f6109fbb4092": {
           "type": "text",
           "settings": {
-            "text": "<p>✅ <strong>FACILITÉ DE PAIEMENT avec KLARNA<\/strong><\/p><p>💳 <strong>PAIEMENT EN 3X SANS FRAIS !<\/strong><\/p><p>🕒 <strong>COMMANDEZ MAINTENANT, PAYEZ PLUS TARD !<\/strong> <br\/><\/p>"
+            "text": "<p> ✔️ Livraison gratuite en 4 à 7 jours.<\/p><p> ✔️ Tableau fabriqué à la commande.<\/p><p>✔️ Plus de 1600 clients satisfaits.<\/p>"
           }
         },
         "caption": {
@@ -98,6 +134,8 @@
         "vendor",
         "title",
         "9f20570b-1a97-4c34-8758-c5af9b8d2cfc",
+        "264af0ef-b9b7-4870-9ed2-2f3c7b6bf090",
+        "00d46483-175b-469a-a481-9ef1fbb6f09c",
         "ee6e4064-ed33-4a00-b99f-f6109fbb4092",
         "caption",
         "5dccdf4a-5644-4f0d-be8c-c01c7d538494",
