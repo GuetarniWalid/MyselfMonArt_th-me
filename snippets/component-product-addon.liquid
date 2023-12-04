@@ -295,6 +295,9 @@
                                 {% liquid
                                     assign option_price_meta_name = option_price_meta_names[forloop.index0]
                                     assign prices = all_products['options-de-la-toile'].metafields.info.about.value[option_price_meta_name] | split: ","
+                                    if forloop.first
+                                        assign countImg = 0
+                                    endif
                                 %}
                                 <div class="radio-container box-style" data-option-name-handleize="{{ option.name | handleize }}" data-option-name="{{ option.name }}" data-option-first-value="{{ option.values.first }}" data-option-first-price="{{ 0 | money }}">
                                     <h3 class="h2">{{ forloop.index | plus: 3 }}. {{ title_container[forloop.index0] }}</h3>
@@ -419,11 +422,7 @@
                             </svg>
                             <span>{{ "sections.product_addon.add_to_cart" | t  }}</span>
                         </button>
-                    </summary-addon>
-
-
-
-                    
+                    </summary-addon>                    
                 </div>
             </div>
         </form>

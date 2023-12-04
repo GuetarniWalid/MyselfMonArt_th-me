@@ -1,18 +1,30 @@
 {
   "sections": {
+    "9e9f7743-4e07-4d6c-b245-6d51bca97122": {
+      "type": "video-banner",
+      "settings": {
+        "video_url": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/d456c942e6864246adfa0185a12fa7b5.mp4",
+        "video_size": "auto",
+        "background": "transparent",
+        "border_radius": 0,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
     "2b3b46e7-881c-4925-96cf-76c7ebf203c4": {
       "type": "image-banner",
+      "disabled": true,
       "settings": {
-        "image_desktop": "shopify:\/\/shop_images\/tableau-decoration-promotion-black-friday.png",
+        "image_desktop": "shopify:\/\/shop_images\/tableau-deco-cadeau-noel.gif",
         "image_desktop_fit": "cover",
         "image_desktop_horizontal_position": "center",
         "image_desktop_vertical_position": "center",
-        "image_desktop_height": 85,
+        "image_desktop_height": 100,
         "content_width_desktop": 60,
         "content_horizontal_position_desktop": 50,
         "content_vertical_position_desktop": 80,
         "content_alignment_desktop": "center",
-        "image_mobile": "shopify:\/\/shop_images\/tableau-decoration-promotion_black-friday-mobile.png",
+        "image_mobile": "shopify:\/\/shop_images\/deco-murale-fleur.jpg",
         "image_mobile_fit": "cover",
         "image_mobile_horizontal_position": "center",
         "image_mobile_vertical_position": "center",
@@ -75,8 +87,8 @@
         "template--16404732051711__1198c25f-e6b6-405b-aa76-db2afd719caf-167457706007ac71a1-0": {
           "type": "heading",
           "settings": {
-            "heading": "TABLEAU ART DECO",
-            "heading_size": "h0",
+            "heading": "Décoration Murale et Tableaux Uniques pour Sublimer Votre Intérieur",
+            "heading_size": "h2",
             "markup": "h1"
           }
         },
@@ -97,7 +109,31 @@
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 24,
-        "padding_bottom": 24
+        "padding_bottom": 0
+      }
+    },
+    "391f7a62-a00d-49cb-b13e-b8cedbdfddf2": {
+      "type": "rich-text",
+      "blocks": {
+        "8b869149-c270-4dab-a7bf-04ef0b359c7c": {
+          "type": "heading",
+          "settings": {
+            "heading": "Collections de Tableaux par Catégorie",
+            "heading_size": "h2",
+            "markup": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "8b869149-c270-4dab-a7bf-04ef0b359c7c"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 20
       }
     },
     "e2edd939-3626-48bb-a1b3-68b7d45d2b13": {
@@ -204,8 +240,8 @@
         "template--16404732051711__20c0c98e-ed16-4069-b89a-bb18d96ee241-1666624599c69c0f87-0": {
           "type": "heading",
           "settings": {
-            "heading": "Habillez vos murs d’émotions.",
-            "heading_size": "h1",
+            "heading": "Tableau Décoration : L'Art de Personnaliser Votre Espace",
+            "heading_size": "h2",
             "markup": "h2"
           }
         },
@@ -226,6 +262,30 @@
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "b1890ac1-d52d-423a-904c-754ecc6c6eeb": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16404732051711__b1890ac1-d52d-423a-904c-754ecc6c6eeb-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Styles Uniques de Tableaux",
+            "heading_size": "h2",
+            "markup": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--16404732051711__b1890ac1-d52d-423a-904c-754ecc6c6eeb-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 0,
         "padding_bottom": 20
       }
     },
@@ -349,7 +409,7 @@
         "46f6a2c1-70af-496f-8a66-1f51ae198f52"
       ],
       "settings": {
-        "title": "❤️ Top ventes de la semaine !",
+        "title": "❤️Nos Best-Sellers : Top ventes de la semaine !",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -371,12 +431,28 @@
     "7f048e47-ff73-4ef2-a44d-204a6ad96f65": {
       "type": "rich-text",
       "blocks": {
+        "b9230e91-626e-4fbf-9804-fc6b3de7a91b": {
+          "type": "heading",
+          "settings": {
+            "heading": "Personnalisation et Impression sur Mesure",
+            "heading_size": "h1",
+            "markup": "h2"
+          }
+        },
+        "2f5690d1-fa20-4669-b69a-069086c1804c": {
+          "type": "heading",
+          "settings": {
+            "heading": "Toile, Aluminium, Plexiglass.",
+            "heading_size": "h2",
+            "markup": "h3"
+          }
+        },
         "template--16404732051711__7f048e47-ff73-4ef2-a44d-204a6ad96f65-16666290841ff88433-0": {
           "type": "heading",
           "settings": {
-            "heading": "Trouvez l'accord parfait. Personnalisez vos envies",
-            "heading_size": "h1",
-            "markup": "h2"
+            "heading": "Trouvez l'Accord Parfait : Personnalisez Vos Envies et Vos Tableaux",
+            "heading_size": "h2",
+            "markup": "h4"
           }
         },
         "template--16404732051711__7f048e47-ff73-4ef2-a44d-204a6ad96f65-16666290841ff88433-1": {
@@ -387,6 +463,8 @@
         }
       },
       "block_order": [
+        "b9230e91-626e-4fbf-9804-fc6b3de7a91b",
+        "2f5690d1-fa20-4669-b69a-069086c1804c",
         "template--16404732051711__7f048e47-ff73-4ef2-a44d-204a6ad96f65-16666290841ff88433-0",
         "template--16404732051711__7f048e47-ff73-4ef2-a44d-204a6ad96f65-16666290841ff88433-1"
       ],
@@ -470,9 +548,9 @@
         "template--16404732051711__bc7808a3-010e-4d80-a8f4-053c77379028-16666290841ff88433-0": {
           "type": "heading",
           "settings": {
-            "heading": "Un doute sur la taille ?",
-            "heading_size": "h1",
-            "markup": "h2"
+            "heading": "Conseils pour Choisir la Taille Idéale de Votre Tableau",
+            "heading_size": "h2",
+            "markup": "h4"
           }
         },
         "template--16404732051711__bc7808a3-010e-4d80-a8f4-053c77379028-16666290841ff88433-1": {
@@ -504,6 +582,30 @@
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 40
+      }
+    },
+    "c2693092-df4c-4d12-bfc4-1044fa89966a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16404732051711__c2693092-df4c-4d12-bfc4-1044fa89966a-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Notre Savoir-Faire et Engagement Artistique",
+            "heading_size": "h1",
+            "markup": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--16404732051711__c2693092-df4c-4d12-bfc4-1044fa89966a-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 8
       }
     },
     "4aa0b4d8-d6df-45da-ab76-f67872d618b8": {
@@ -735,15 +837,15 @@
         "template--16404732051711__08230ab8-b2ce-4375-a1c2-126023d3aa91-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Élevez Votre décoration : Découvrez la Magie de MyselfMonart",
+            "heading": "Harmonisez Votre Espace avec Nos Œuvres d'Art",
             "heading_size": "h1",
-            "markup": "h1"
+            "markup": "h2"
           }
         },
         "template--16404732051711__08230ab8-b2ce-4375-a1c2-126023d3aa91-text-1": {
           "type": "text",
           "settings": {
-            "text": "<h2><strong>MyselfMonart – Votre Compagnon dans l'Aventure Décorative<\/strong><\/h2><p>MyselfMonart, votre guide fiable et élégant où chaque pièce sera sublimée. Notre mission est claire : faire de votre <strong>maison<\/strong> un lieu original, chic, et résolument dans l'air du temps. L'art de la <strong>décoration<\/strong> réside dans le choix délibéré et soigné de chaque élément, et c'est là que nous intervenons. Nous ne parlons pas seulement de toiles ou de <strong>tableaux<\/strong>, nous parlons de créer un environnement qui reflète la modernité, l'élégance, et une pincée d'audace. Avec nos collections variées de <strong>décoration<\/strong> <strong>murale<\/strong>, de <strong>tableaux<\/strong> <strong>contemporains<\/strong> aux <strong>palettes colorées<\/strong>, en passant par des designs plus subtils et raffinés, votre intérieur sera transformé en un lieu qui respire la<strong> tendance et le confort<\/strong>. Découvrez l’exclusivité avec MyselfMonart et donnons ensemble une nouvelle dimension à votre <strong>décoration<\/strong>. <\/p><h2><strong>Décorer un Intérieur n’est Jamais Simple<\/strong><\/h2><p>Décorer un Intérieur n’est Jamais Simple, décorer les murs de votre <strong>maison<\/strong> peut souvent se transformer en un casse-tête exigeant. La recherche du <strong>tableau<\/strong> parfait, qui habille vos murs, reflète votre personnalité et s'harmonise avec votre style de <strong>décoration<\/strong>, est un véritable défi. Entre les différentes palettes de couleurs, les styles et les formats, le choix peut vite devenir écrasant et la peur de mal faire, omniprésente. Imaginez un lieu où chaque intérieur, chaque personnalité trouve à coup sûr le <strong>tableau<\/strong> qui va illuminer la <strong>décoration<\/strong> et créer une ambiance où l’on se sent vraiment bien.<\/p><h2><strong>Explorer une Richesse de Choix avec Nos Catégories Variées<\/strong><\/h2><p>Plongez-vous dans un océan de possibilités avec les <strong>collections diversifiées<\/strong> de <strong>MyselfMonart<\/strong>. Notre <strong>gamme variée de décorations murales<\/strong> est spécialement conçue pour apporter ce petit \"plus\" à chaque recoin de votre espace. Que vous soyez fan des <strong>photos réalistes<\/strong>, de <strong>portrait de personnalité<\/strong>, ou que votre cœur balance pour des <strong>œuvres abstraites<\/strong>, capables de susciter la réflexion et l'admiration, nous avons quelque chose pour chaque goût et chaque mur. Pour les adeptes des nuances et des contrastes, nos <strong>options colorées<\/strong> ou <strong>monochromes<\/strong> sont là pour mettre en lumière votre espace avec subtilité ou audace. Et pour une touche d’originalité, nos <strong>motifs animaux<\/strong> insuffleront une vie et une énergie uniques à vos pièces. Chez <strong>MyselfMonart<\/strong>, chaque choix est une promesse d’unicité et de style.Chaque pièce mérite une parure qui le distingue et le fait briller, explorons ensemble les possibilités infinies.<\/p><h2><strong>L’Impression selon Vos Envies – Toile, Aluminium, et Plexiglass<\/strong><\/h2><ul><li><strong>Les Options<\/strong> : Chez <strong>MyselfMonart<\/strong>, votre souhait devient réalité avec notre spectre de choix en matière d’<strong>impression<\/strong>. La <strong>toile<\/strong>, véritable classique, offre une texture chaleureuse et traditionnelle, mettant en lumière chaque détail vibrant des couleurs et des nuances parfait pour une <strong>ambiance moderne<\/strong>. Ensuite, l’<strong>aluminium<\/strong>, réputé pour sa durabilité et son aspect contemporain, propose une finesse visuelle et une élégance qui traversent le temps. Enfin, le <strong>plexiglass<\/strong> évoque une <strong>modernité épurée<\/strong>, apportant une brillance exceptionnelle et une profondeur aux images et au photos, pour une touche de luxe dans votre intérieur et une <strong>ambiance design<\/strong>. Chacun de ces supports possède ses propres charmes et avantages, à vous de choisir celui qui <strong>sublimera votre espace<\/strong> avec le plus de justesse.<\/li><li><strong>Personnalisation<\/strong> : Et parce que chez <strong>MyselfMonart<\/strong> nous croyons que chaque détail compte, la personnalisation va encore plus loin avec des <strong>options d'encadrement<\/strong> pour les toiles et des <strong>kits de fixation<\/strong>, vous assurant ainsi un ajustement parfait à votre espace et une <strong>installation<\/strong> en toute simplicité. Faites de vos murs un reflet de vos préférences et de votre style, en optant pour une finition et une fixation qui vous parlent.<\/li><\/ul><h2><strong>Harmonisez Vos Lieux de Vie avec Nos Œuvres d'Art<\/strong><\/h2><p>Laissez-vous guider par la beauté des œuvres que propose <strong>MyselfMonart<\/strong>, véritable célébration de <strong>diversité<\/strong> et d’<strong>adaptabilité<\/strong>. Nos créations s’inscrivent avec aisance et distinction dans toutes les pièces de votre domicile. En effet, chaque <strong>toile<\/strong>, chaque <strong>image<\/strong>, a la capacité de fusionner avec les ambiances, qu'elles soient <strong>cocooning<\/strong> dans votre <strong>salon<\/strong>, <strong>dynamiques<\/strong> dans votre <strong>cuisine<\/strong>, ou <strong>apaisantes<\/strong> dans vos <strong>chambres<\/strong>. Nos <strong>œuvres d'art <\/strong>transcendent les styles - qu’ils soient <strong>design<\/strong>, <strong>moderne<\/strong>, <strong>vintage<\/strong>, ou <strong>pop art<\/strong> – en s’alliant avec habileté et finesse aux différentes atmosphères de votre intérieur. Imaginez une <strong>toile abstraite colorée<\/strong> qui éclaire et ravive une cuisine au <strong>style moderne<\/strong> et <strong>épuré<\/strong>. Ou encore, un tableau avec un <strong>motif animal<\/strong> qui ajoute une note à la fois majestueuse et sauvage à votre salon de<strong> style vintage<\/strong>. Peut-être une <strong>photographie en noir et blanc<\/strong>, empreinte de nostalgie, qui viendrait adoucir l'ambiance d’une chambre au design <strong>pop art <\/strong>audacieux. Et n'oublions pas la <strong>chambre enfant<\/strong>, où une toile joyeuse et imaginative pourrait éveiller la <strong>créativité<\/strong> et les rêves de nos petits explorateurs. Ces mariages d’<strong>art<\/strong> et de <strong>style<\/strong> ouvrent un monde de possibilités, créant des atmosphères qui respirent l'originalité et l'équilibre.<\/p><h2><strong>L’Expérience MyselfMonart – Bien Plus que de Simples Achats<\/strong><\/h2><p><strong>Service Client :<\/strong> L’expérience <strong>MyselfMonart<\/strong> transcende le simple acte d’achat. Nous sommes fiers de vous accompagner à chaque étape de votre parcours <strong>décoratif mural<\/strong> avec un <strong>service client<\/strong> réputé pour son écoute, sa réactivité et son efficacité. Qu’il s’agisse de vous guider à travers notre riche <strong>collection de tableaux<\/strong>, de vous conseiller sur les <strong>couleurs<\/strong> qui sublimeront votre <strong>maison<\/strong>, ou simplement de répondre à vos <strong>interrogations<\/strong>, notre <strong>équipe<\/strong> se tient prête à transformer vos projets de <strong>déco<\/strong> en réalités éblouissantes.<\/p><h2><strong>Passez à l’Action – Transformez Votre déco dès Aujourd'hui<\/strong><\/h2><p>N'attendez plus un instant ! Le Le <strong>moment<\/strong> est venu d’insuffler une nouvelle vie à votre déco avec <strong>MyselfMonart<\/strong>. Commencez dès maintenant votre voyage à travers notre collection époustouflante, riche en <strong>couleurs<\/strong>, en <strong>émotions<\/strong> et en <strong>styles diversifiés<\/strong>, chacune de nos pièces étant minutieusement conçue pour apporter cette touche finale qui fera toute la différence dans votre décoration.Parcourir notre <strong>galerie<\/strong>, c’est se laisser transporter dans un univers où chaque œuvre vous invite à imaginer, à rêver et à créer votre propre oasis de <strong>bien-être<\/strong> et d’<strong>élégance<\/strong>. C’est la promesse de <strong>MyselfMonart<\/strong> de vous offrir bien plus qu’un simple tableau d'art, mais une source d’<strong>inspiration<\/strong> quotidienne directement dans votre espace de vie.<\/p><p>Alors, prêt(e) à faire le premier pas ? Explorez notre <strong>collection<\/strong>, laissez-vous séduire par l’étendue et la <strong>qualité<\/strong> de <strong>nos œuvres<\/strong>, et faites de votre<strong> interieur<\/strong> le reflet de votre <strong>personnalité<\/strong> et de vos <strong>aspirations<\/strong>. <strong>MyselfMonart<\/strong> est là pour vous accompagner dans chaque étape de cette transformation merveilleuse.<\/p>"
+            "text": "<h3><strong>MyselfMonart – Votre Compagnon dans l'Aventure Décorative<\/strong><\/h3><p>MyselfMonart, votre guide fiable et élégant où chaque pièce sera sublimée. Notre mission est claire : faire de votre <strong>maison<\/strong> un lieu original, chic, et résolument dans l'air du temps. L'art de la <strong>décoration<\/strong> réside dans le choix délibéré et soigné de chaque élément, et c'est là que nous intervenons. Nous ne parlons pas seulement de toiles ou de <strong>tableaux<\/strong>, nous parlons de créer un environnement qui reflète la modernité, l'élégance, et une pincée d'audace. Avec nos collections variées de <strong>décoration<\/strong> <strong>murale<\/strong>, de <strong>tableaux<\/strong> <strong>contemporains<\/strong> aux <strong>palettes colorées<\/strong>, en passant par des designs plus subtils et raffinés, votre intérieur sera transformé en un lieu qui respire la<strong> tendance et le confort<\/strong>. Découvrez l’exclusivité avec MyselfMonart et donnons ensemble une nouvelle dimension à votre <strong>décoration<\/strong>. <\/p><h3><strong>Décorer un Intérieur n’est Jamais Simple<\/strong><\/h3><p>Décorer un Intérieur n’est Jamais Simple, décorer les murs de votre <strong>maison<\/strong> peut souvent se transformer en un casse-tête exigeant. La recherche du <strong>tableau<\/strong> parfait, qui habille vos murs, reflète votre personnalité et s'harmonise avec votre style de <strong>décoration<\/strong>, est un véritable défi. Entre les différentes palettes de couleurs, les styles et les formats, le choix peut vite devenir écrasant et la peur de mal faire, omniprésente. Imaginez un lieu où chaque intérieur, chaque personnalité trouve à coup sûr le <strong>tableau<\/strong> qui va illuminer la <strong>décoration<\/strong> et créer une ambiance où l’on se sent vraiment bien.<\/p><h3><strong>Explorer une Richesse de Choix avec Nos Catégories Variées<\/strong><\/h3><p>Plongez-vous dans un océan de possibilités avec les <strong>collections diversifiées<\/strong> de <strong>MyselfMonart<\/strong>. Notre <strong>gamme variée de décorations murales<\/strong> est spécialement conçue pour apporter ce petit \"plus\" à chaque recoin de votre espace. Que vous soyez fan des <strong>photos réalistes<\/strong>, de <strong>portrait de personnalité<\/strong>, ou que votre cœur balance pour des <strong>œuvres abstraites<\/strong>, capables de susciter la réflexion et l'admiration, nous avons quelque chose pour chaque goût et chaque mur. Pour les adeptes des nuances et des contrastes, nos <strong>options colorées<\/strong> ou <strong>monochromes<\/strong> sont là pour mettre en lumière votre espace avec subtilité ou audace. Et pour une touche d’originalité, nos <strong>motifs animaux<\/strong> insuffleront une vie et une énergie uniques à vos pièces. Chez <strong>MyselfMonart<\/strong>, chaque choix est une promesse d’unicité et de style.Chaque pièce mérite une parure qui le distingue et le fait briller, explorons ensemble les possibilités infinies.<\/p><h3><strong>L’Impression selon Vos Envies – Toile, Aluminium, et Plexiglass<\/strong><\/h3><ul><li><strong>Les Options<\/strong> : Chez <strong>MyselfMonart<\/strong>, votre souhait devient réalité avec notre spectre de choix en matière d’<strong>impression<\/strong>. La <strong>toile<\/strong>, véritable classique, offre une texture chaleureuse et traditionnelle, mettant en lumière chaque détail vibrant des couleurs et des nuances parfait pour une <strong>ambiance moderne<\/strong>. Ensuite, l’<strong>aluminium<\/strong>, réputé pour sa durabilité et son aspect contemporain, propose une finesse visuelle et une élégance qui traversent le temps. Enfin, le <strong>plexiglass<\/strong> évoque une <strong>modernité épurée<\/strong>, apportant une brillance exceptionnelle et une profondeur aux images et au photos, pour une touche de luxe dans votre intérieur et une <strong>ambiance design<\/strong>. Chacun de ces supports possède ses propres charmes et avantages, à vous de choisir celui qui <strong>sublimera votre espace<\/strong> avec le plus de justesse.<\/li><li><strong>Personnalisation<\/strong> : Et parce que chez <strong>MyselfMonart<\/strong> nous croyons que chaque détail compte, la personnalisation va encore plus loin avec des <strong>options d'encadrement<\/strong> pour les toiles et des <strong>kits de fixation<\/strong>, vous assurant ainsi un ajustement parfait à votre espace et une <strong>installation<\/strong> en toute simplicité. Faites de vos murs un reflet de vos préférences et de votre style, en optant pour une finition et une fixation qui vous parlent.<\/li><\/ul><h3><strong>Harmonisez Vos Lieux de Vie avec Nos Œuvres d'Art<\/strong><\/h3><p>Laissez-vous guider par la beauté des œuvres que propose <strong>MyselfMonart<\/strong>, véritable célébration de <strong>diversité<\/strong> et d’<strong>adaptabilité<\/strong>. Nos créations s’inscrivent avec aisance et distinction dans toutes les pièces de votre domicile. En effet, chaque <strong>toile<\/strong>, chaque <strong>image<\/strong>, a la capacité de fusionner avec les ambiances, qu'elles soient <strong>cocooning<\/strong> dans votre <strong>salon<\/strong>, <strong>dynamiques<\/strong> dans votre <strong>cuisine<\/strong>, ou <strong>apaisantes<\/strong> dans vos <strong>chambres<\/strong>. Nos <strong>œuvres d'art <\/strong>transcendent les styles - qu’ils soient <strong>design<\/strong>, <strong>moderne<\/strong>, <strong>vintage<\/strong>, ou <strong>pop art<\/strong> – en s’alliant avec habileté et finesse aux différentes atmosphères de votre intérieur. Imaginez une <strong>toile abstraite colorée<\/strong> qui éclaire et ravive une cuisine au <strong>style moderne<\/strong> et <strong>épuré<\/strong>. Ou encore, un tableau avec un <strong>motif animal<\/strong> qui ajoute une note à la fois majestueuse et sauvage à votre salon de<strong> style vintage<\/strong>. Peut-être une <strong>photographie en noir et blanc<\/strong>, empreinte de nostalgie, qui viendrait adoucir l'ambiance d’une chambre au design <strong>pop art <\/strong>audacieux. Et n'oublions pas la <strong>chambre enfant<\/strong>, où une toile joyeuse et imaginative pourrait éveiller la <strong>créativité<\/strong> et les rêves de nos petits explorateurs. Ces mariages d’<strong>art<\/strong> et de <strong>style<\/strong> ouvrent un monde de possibilités, créant des atmosphères qui respirent l'originalité et l'équilibre.<\/p><h3><strong>L’Expérience MyselfMonart – Bien Plus que de Simples Achats<\/strong><\/h3><p><strong>Service Client :<\/strong> L’expérience <strong>MyselfMonart<\/strong> transcende le simple acte d’achat. Nous sommes fiers de vous accompagner à chaque étape de votre parcours <strong>décoratif mural<\/strong> avec un <strong>service client<\/strong> réputé pour son écoute, sa réactivité et son efficacité. Qu’il s’agisse de vous guider à travers notre riche <strong>collection de tableaux<\/strong>, de vous conseiller sur les <strong>couleurs<\/strong> qui sublimeront votre <strong>maison<\/strong>, ou simplement de répondre à vos <strong>interrogations<\/strong>, notre <strong>équipe<\/strong> se tient prête à transformer vos projets de <strong>déco<\/strong> en réalités éblouissantes.<\/p><h3><strong>Passez à l’Action – Transformez Votre déco dès Aujourd'hui<\/strong><\/h3><p>N'attendez plus un instant ! Le Le <strong>moment<\/strong> est venu d’insuffler une nouvelle vie à votre déco avec <strong>MyselfMonart<\/strong>. Commencez dès maintenant votre voyage à travers notre collection époustouflante, riche en <strong>couleurs<\/strong>, en <strong>émotions<\/strong> et en <strong>styles diversifiés<\/strong>, chacune de nos pièces étant minutieusement conçue pour apporter cette touche finale qui fera toute la différence dans votre décoration.Parcourir notre <strong>galerie<\/strong>, c’est se laisser transporter dans un univers où chaque œuvre vous invite à imaginer, à rêver et à créer votre propre oasis de <strong>bien-être<\/strong> et d’<strong>élégance<\/strong>. C’est la promesse de <strong>MyselfMonart<\/strong> de vous offrir bien plus qu’un simple tableau d'art, mais une source d’<strong>inspiration<\/strong> quotidienne directement dans votre espace de vie.<\/p><p>Alors, prêt(e) à faire le premier pas ? Explorez notre <strong>collection<\/strong>, laissez-vous séduire par l’étendue et la <strong>qualité<\/strong> de <strong>nos œuvres<\/strong>, et faites de votre<strong> interieur<\/strong> le reflet de votre <strong>personnalité<\/strong> et de vos <strong>aspirations<\/strong>. <strong>MyselfMonart<\/strong> est là pour vous accompagner dans chaque étape de cette transformation merveilleuse.<\/p>"
           }
         }
       },
@@ -762,16 +864,20 @@
     }
   },
   "order": [
+    "9e9f7743-4e07-4d6c-b245-6d51bca97122",
     "2b3b46e7-881c-4925-96cf-76c7ebf203c4",
     "ea9b3b5b-3a5c-4aa0-b479-85259ae80844",
     "1198c25f-e6b6-405b-aa76-db2afd719caf",
+    "391f7a62-a00d-49cb-b13e-b8cedbdfddf2",
     "e2edd939-3626-48bb-a1b3-68b7d45d2b13",
     "20c0c98e-ed16-4069-b89a-bb18d96ee241",
+    "b1890ac1-d52d-423a-904c-754ecc6c6eeb",
     "43d8d4f5-3a9c-478b-8698-d80902543b40",
     "1aaec86d-3d6c-44d8-aaa8-716ea425a598",
     "7f048e47-ff73-4ef2-a44d-204a6ad96f65",
     "0400eb0c-febd-4b30-a9fc-23868b723b01",
     "bc7808a3-010e-4d80-a8f4-053c77379028",
+    "c2693092-df4c-4d12-bfc4-1044fa89966a",
     "4aa0b4d8-d6df-45da-ab76-f67872d618b8",
     "4837627f-117a-4854-9e58-11cf285ff01d",
     "1722ee31-cffd-4be1-8f1a-6a4d2a1a8338",
