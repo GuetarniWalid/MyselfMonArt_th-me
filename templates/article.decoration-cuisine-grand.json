@@ -56,8 +56,8 @@
         "template--18952696496475__ae1ee69f-f7ac-4c83-b2ed-4a6e579abe24-168414635562ea7de4-2": {
           "type": "button",
           "settings": {
-            "button_label": "Voir le blog",
-            "button_link": "https:\/\/imlm4zetfdfsmnu4-62323884287.shopifypreview.com\/blogs\/tableau-cuisine\/articles?preview_key=3ae95d94dc00c07234bd0f9106b55994"
+            "button_label": "En savoir plus",
+            "button_link": "https:\/\/www.myselfmonart.com\/blogs\/tableau-cuisine\/comment-decorer-les-murs-de-sa-cuisine"
           }
         }
       },
@@ -101,8 +101,8 @@
         "template--18952696496475__e7bbe058-9aee-4e29-b923-846f77b7f084-168414635562ea7de4-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "En savoir plus",
+            "button_link": "https:\/\/www.myselfmonart.com\/blogs\/tableau-cuisine\/10-idees-de-decoration-pour-sublimer-votre-cuisine"
           }
         }
       },
@@ -112,6 +112,7 @@
         "template--18952696496475__e7bbe058-9aee-4e29-b923-846f77b7f084-168414635562ea7de4-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/8-idees-decoration-cuisine.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
@@ -155,7 +156,9 @@
         "template--18952696496475__06633d81-0a12-49a8-a462-880b65d64464-168414635562ea7de4-1",
         "template--18952696496475__06633d81-0a12-49a8-a462-880b65d64464-168414635562ea7de4-2"
       ],
+      "disabled": true,
       "settings": {
+        "image": "shopify:\/\/shop_images\/idees-pour-decorer-ca-cuisine.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -174,6 +177,7 @@
       "blocks": {
         "template--18952696496475__0ce687f7-c459-476c-be8f-093aec6781a4-168414635562ea7de4-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Comment relooker ma cuisine ?",
             "heading_size": "h1"
@@ -199,6 +203,7 @@
         "template--18952696496475__0ce687f7-c459-476c-be8f-093aec6781a4-168414635562ea7de4-1",
         "template--18952696496475__0ce687f7-c459-476c-be8f-093aec6781a4-168414635562ea7de4-2"
       ],
+      "disabled": true,
       "settings": {
         "height": "adapt",
         "desktop_image_width": "medium",

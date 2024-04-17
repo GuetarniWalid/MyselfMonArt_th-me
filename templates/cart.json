@@ -27,10 +27,35 @@
       ],
       "settings": {
       }
+    },
+    "be03b2f9-7120-4a8f-a92c-51b900d236dd": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16404731724031__be03b2f9-7120-4a8f-a92c-51b900d236dd-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "🎄 Pour un Noël joyeux, commandez dès maintenant et profitez de la livraison gratuite jusqu'au 16 décembre",
+            "heading_size": "h1",
+            "markup": "h2"
+          }
+        }
+      },
+      "block_order": [
+        "template--16404731724031__be03b2f9-7120-4a8f-a92c-51b900d236dd-heading-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "cart-items",
-    "cart-footer"
+    "cart-footer",
+    "be03b2f9-7120-4a8f-a92c-51b900d236dd"
   ]
 }

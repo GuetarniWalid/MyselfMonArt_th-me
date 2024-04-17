@@ -66,12 +66,6 @@
             "show_after_promo": true
           }
         },
-        "ee6e4064-ed33-4a00-b99f-f6109fbb4092": {
-          "type": "text",
-          "settings": {
-            "text": "<p> ✔️ Livraison gratuite en 4 à 7 jours.<\/p><p> ✔️ Tableau fabriqué à la commande.<\/p><p>✔️ Plus de 1600 clients satisfaits.<\/p>"
-          }
-        },
         "caption": {
           "type": "text",
           "settings": {
@@ -136,7 +130,6 @@
         "9f20570b-1a97-4c34-8758-c5af9b8d2cfc",
         "264af0ef-b9b7-4870-9ed2-2f3c7b6bf090",
         "00d46483-175b-469a-a481-9ef1fbb6f09c",
-        "ee6e4064-ed33-4a00-b99f-f6109fbb4092",
         "caption",
         "5dccdf4a-5644-4f0d-be8c-c01c7d538494",
         "09bd0ce8-dfec-4d37-9f99-b06e314b81fa",
@@ -163,6 +156,111 @@
         "enable_zoom": true,
         "choose_image_to_show_in_serp": true,
         "image_to_show_in_serp": 2
+      }
+    },
+    "dynamic_image_text_EaHTJt": {
+      "type": "dynamic-image-text",
+      "blocks": {
+        "dynamic_image_text_7HeVwe": {
+          "type": "dynamic-image-text",
+          "settings": {
+            "message": "Juste une petite photo avec le cadre mis en place encore un grand merci à vous 🥰. \nElodie G",
+            "image": "shopify:\/\/shop_images\/Tableau-chambre-bebe_f6e62e6e-707b-41df-aa17-bdad25ef3385.jpg"
+          }
+        },
+        "dynamic_image_text_tQxFU7": {
+          "type": "dynamic-image-text",
+          "settings": {
+            "message": "Envoie très rapide et tableau encore plus beau que sur le site.\nParfait je recommande !!!\nJessica S",
+            "image": "shopify:\/\/shop_images\/tableau_marylin.jpg"
+          }
+        },
+        "dynamic_image_text_AWxz6m": {
+          "type": "dynamic-image-text",
+          "settings": {
+            "message": "Trop contente de mon tableau, les couleurs sont aussi flashy que sur les photo du site.\nSarah F",
+            "image": "shopify:\/\/shop_images\/ananas.jpg"
+          }
+        },
+        "dynamic_image_text_Babaz7": {
+          "type": "dynamic-image-text",
+          "settings": {
+            "message": "Le tableau est super, et encore plus beau en vrai ! Arrivé rapidement et bien protégé. Alain N",
+            "image": "shopify:\/\/shop_images\/Tableau-chambre.png"
+          }
+        },
+        "dynamic_image_text_PkMzBj": {
+          "type": "dynamic-image-text",
+          "settings": {
+            "message": "Très belle toile, les couleurs sont super et brillante. Marie K",
+            "image": "shopify:\/\/shop_images\/Tableau-decoration.png"
+          }
+        },
+        "dynamic_image_text_mBjJDj": {
+          "type": "dynamic-image-text",
+          "settings": {
+            "message": "Top, rien à dire de plus. \nGuillaume H",
+            "image": "shopify:\/\/shop_images\/Tableau-deco-noir-et-blanc.jpg"
+          }
+        },
+        "dynamic_image_text_3V44fT": {
+          "type": "dynamic-image-text",
+          "settings": {
+            "message": "Magnifique tableau et très design, correspond parfaitement à la description.  Morel E",
+            "image": "shopify:\/\/shop_images\/tableau-salon-femme-africaine.png"
+          }
+        },
+        "dynamic_image_text_XkW4iy": {
+          "type": "dynamic-image-text",
+          "settings": {
+            "message": "Nickel, très satisfait c'est ma 3e commande. Hugo G",
+            "image": "shopify:\/\/shop_images\/tableau-comics-super-man.jpg"
+          }
+        },
+        "dynamic_image_text_mBGxQU": {
+          "type": "dynamic-image-text",
+          "settings": {
+            "message": "TOP, tableau reçu rapidement avec suivie. Hugo G",
+            "image": "shopify:\/\/shop_images\/tableau-superman-aquarelle.jpg"
+          }
+        },
+        "dynamic_image_text_FzwPjk": {
+          "type": "dynamic-image-text",
+          "settings": {
+            "message": "L animal, majestueux et solitaire trône dans mon salon au dessus de ma console... Peut on dire qu il est magnifique ? Assurément oui et je l adore!\nPatricia G.",
+            "image": "shopify:\/\/shop_images\/tableau-animaux-zebre_383f6477-a1c6-4c30-b8cc-637fe67fde0a.jpg"
+          }
+        },
+        "dynamic_image_text_eXaFk8": {
+          "type": "dynamic-image-text",
+          "settings": {
+            "message": "Très beau tableau que nous vous avons acheté en août dernier et qui a fait très plaisir à un jeune de 20 ans. \nNous sommes ravis et nous reviendrons vers vous.\nJacqueline R.",
+            "image": "shopify:\/\/shop_images\/tableau-deco-impression-alluminium-nike.jpg"
+          }
+        }
+      },
+      "block_order": [
+        "dynamic_image_text_7HeVwe",
+        "dynamic_image_text_tQxFU7",
+        "dynamic_image_text_AWxz6m",
+        "dynamic_image_text_Babaz7",
+        "dynamic_image_text_PkMzBj",
+        "dynamic_image_text_mBjJDj",
+        "dynamic_image_text_3V44fT",
+        "dynamic_image_text_XkW4iy",
+        "dynamic_image_text_mBGxQU",
+        "dynamic_image_text_FzwPjk",
+        "dynamic_image_text_eXaFk8"
+      ],
+      "settings": {
+        "title": "Nos tableaux à travers vos yeux ❤️",
+        "heading_size": "h1",
+        "background_image": "",
+        "background_repeat": "no-repeat",
+        "duration_image_appearance": 5,
+        "section_background_color": "#F5F3EE",
+        "margin_top": 10,
+        "margin_bottom": 35
       }
     },
     "e3472349-0b5d-4208-829a-003c71a9609f": {
@@ -487,6 +585,7 @@
   "order": [
     "1904b31a-8de9-4b76-a2b3-35df74c738e7",
     "main",
+    "dynamic_image_text_EaHTJt",
     "e3472349-0b5d-4208-829a-003c71a9609f",
     "main-product-recommendations",
     "16637725317f40c776",

@@ -1,0 +1,113 @@
+{
+  "layout": "article",
+  "sections": {
+    "ce4595e5-01e5-472d-ac56-563a87ef335c": {
+      "type": "first-blog-link",
+      "settings": {
+      }
+    },
+    "main": {
+      "type": "main-article",
+      "blocks": {
+        "title": {
+          "type": "title",
+          "settings": {
+            "blog_show_date": true,
+            "blog_show_author": false
+          }
+        },
+        "featured_image": {
+          "type": "featured_image",
+          "settings": {
+            "image_height": "adapt"
+          }
+        },
+        "content": {
+          "type": "content",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "title",
+        "featured_image",
+        "content"
+      ],
+      "settings": {
+      }
+    },
+    "13f68910-5634-4b7b-9689-99d7a84d7fc2": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--16404731658495__13f68910-5634-4b7b-9689-99d7a84d7fc2-collapsible_row-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Quels sont les principaux lieux pour trouver l'inspiration en matière de décoration d'intérieur ?",
+            "icon": "none",
+            "row_content": "<p>Les principales sources sont les réseaux sociaux, les magazines de décoration, et les enseignes de vente de meubles et décoration.<\/p>",
+            "page": ""
+          }
+        },
+        "template--16404731658495__13f68910-5634-4b7b-9689-99d7a84d7fc2-collapsible_row-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Quels sont les avantages de chercher de l'inspiration sur Pinterest et Instagram pour la décoration d'intérieur ?",
+            "icon": "none",
+            "row_content": "<p>Pinterest et Instagram sont des mines d'or d'idées pour la décoration d'intérieur. Ils offrent un accès facile à une infinité d'images et de concepts, pour décorer votre interieur.<\/p>",
+            "page": ""
+          }
+        },
+        "template--16404731658495__13f68910-5634-4b7b-9689-99d7a84d7fc2-collapsible_row-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Pourquoi les magazines de décoration restent-ils appréciés malgré la popularité des blogs en ligne ?",
+            "icon": "none",
+            "row_content": "<p>Les magazines de décoration, avec leurs belles photographies et leurs articles détaillés, continuent d'inspirer et d'apporter des idées fraîches. Leur format papier offre un avantage non négligeable : une immersion sans distraction numérique comme les pop-up.<\/p>",
+            "page": ""
+          }
+        },
+        "template--16404731658495__13f68910-5634-4b7b-9689-99d7a84d7fc2-collapsible_row-4": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Où peut-on trouver des conseils et des avis fiables en matière de décoration ?",
+            "icon": "none",
+            "row_content": "<p>Pour des conseils et avis fiables en décoration, explorez les forums et les groupes Facebook dédiés à ce sujet. Pour une approche plus personnalisée, faire appel à un décorateur d'intérieur peut être une excellente option.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16404731658495__13f68910-5634-4b7b-9689-99d7a84d7fc2-collapsible_row-1",
+        "template--16404731658495__13f68910-5634-4b7b-9689-99d7a84d7fc2-collapsible_row-2",
+        "template--16404731658495__13f68910-5634-4b7b-9689-99d7a84d7fc2-collapsible_row-3",
+        "template--16404731658495__13f68910-5634-4b7b-9689-99d7a84d7fc2-collapsible_row-4"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "FAQ",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "logo_color": "#000000",
+        "color_scheme": "background-2",
+        "container_color_scheme": "accent-1",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 4,
+        "padding_bottom": 36
+      }
+    },
+    "11ed1855-d812-4ccc-8f80-65a14ff1c6bd": {
+      "type": "sibling-blog-links",
+      "settings": {
+      }
+    }
+  },
+  "order": [
+    "ce4595e5-01e5-472d-ac56-563a87ef335c",
+    "main",
+    "13f68910-5634-4b7b-9689-99d7a84d7fc2",
+    "11ed1855-d812-4ccc-8f80-65a14ff1c6bd"
+  ]
+}

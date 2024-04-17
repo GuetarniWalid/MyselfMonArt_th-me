@@ -150,80 +150,80 @@
         "image_to_show_in_serp": 2
       }
     },
-    "dynamic_image_text_H4zdDe": {
+    "dynamic_image_text_YJgPLx": {
       "type": "dynamic-image-text",
       "blocks": {
-        "dynamic_image_text_TPT4WB": {
+        "dynamic_image_text_wNEb7e": {
           "type": "dynamic-image-text",
           "settings": {
             "message": "Juste une petite photo avec le cadre mis en place encore un grand merci à vous 🥰. \nElodie G",
             "image": "shopify:\/\/shop_images\/Tableau-chambre-bebe_f6e62e6e-707b-41df-aa17-bdad25ef3385.jpg"
           }
         },
-        "dynamic_image_text_8d3C7L": {
+        "dynamic_image_text_XjwzNH": {
           "type": "dynamic-image-text",
           "settings": {
             "message": "Envoie très rapide et tableau encore plus beau que sur le site.\nParfait je recommande !!!\nJessica S",
             "image": "shopify:\/\/shop_images\/tableau_marylin.jpg"
           }
         },
-        "dynamic_image_text_aYJyzM": {
+        "dynamic_image_text_CmM9pP": {
           "type": "dynamic-image-text",
           "settings": {
             "message": "Trop contente de mon tableau, les couleurs sont aussi flashy que sur les photos du site.\nSarah F",
             "image": "shopify:\/\/shop_images\/ananas.jpg"
           }
         },
-        "dynamic_image_text_THr8R6": {
+        "dynamic_image_text_L43i9E": {
           "type": "dynamic-image-text",
           "settings": {
             "message": "Le tableau est super, et encore plus beau en vrai ! Arrivé rapidement et bien protégé. Alain N",
             "image": "shopify:\/\/shop_images\/Tableau-chambre.png"
           }
         },
-        "dynamic_image_text_wzddfD": {
+        "dynamic_image_text_gCbnyn": {
           "type": "dynamic-image-text",
           "settings": {
             "message": "Très belle toile, les couleurs sont super et brillante. Marie K",
             "image": "shopify:\/\/shop_images\/Tableau-decoration.png"
           }
         },
-        "dynamic_image_text_n66V4f": {
+        "dynamic_image_text_p8mg4y": {
           "type": "dynamic-image-text",
           "settings": {
             "message": "Top, rien à dire de plus. \nGuillaume H",
             "image": "shopify:\/\/shop_images\/Tableau-deco-noir-et-blanc.jpg"
           }
         },
-        "dynamic_image_text_CTQnRj": {
+        "dynamic_image_text_RkVrDa": {
           "type": "dynamic-image-text",
           "settings": {
             "message": "Magnifique tableau et très design, correspond parfaitement à la description.  Morel E",
             "image": "shopify:\/\/shop_images\/tableau-salon-femme-africaine.png"
           }
         },
-        "dynamic_image_text_9JGDKG": {
+        "dynamic_image_text_pUQ9Tj": {
           "type": "dynamic-image-text",
           "settings": {
             "message": "Nickel, très satisfait c'est ma 3e commande. Hugo G",
             "image": "shopify:\/\/shop_images\/tableau-comics-super-man.jpg"
           }
         },
-        "dynamic_image_text_784dTm": {
+        "dynamic_image_text_xCngAE": {
           "type": "dynamic-image-text",
           "settings": {
             "message": "TOP, tableau reçu rapidement avec suivie. Hugo G",
             "image": "shopify:\/\/shop_images\/tableau-superman-aquarelle.jpg"
           }
         },
-        "dynamic_image_text_9gVCcJ": {
+        "dynamic_image_text_wGNLrT": {
           "type": "dynamic-image-text",
           "settings": {
             "message": "L animal, majestueux et solitaire trône dans mon salon au dessus de ma console... Peut on dire qu il est magnifique ? Assurément oui et je l adore!\nPatricia G.",
             "image": "shopify:\/\/shop_images\/tableau-animaux-zebre_383f6477-a1c6-4c30-b8cc-637fe67fde0a.jpg"
           }
         },
-        "dynamic_image_text_FMx98w": {
+        "dynamic_image_text_qHiRr6": {
           "type": "dynamic-image-text",
           "settings": {
             "message": "Très beau tableau que nous vous avons acheté en août dernier et qui a fait très plaisir à un jeune de 20 ans. \nNous sommes ravis et nous reviendrons vers vous.\nJacqueline R.",
@@ -232,17 +232,17 @@
         }
       },
       "block_order": [
-        "dynamic_image_text_TPT4WB",
-        "dynamic_image_text_8d3C7L",
-        "dynamic_image_text_aYJyzM",
-        "dynamic_image_text_THr8R6",
-        "dynamic_image_text_wzddfD",
-        "dynamic_image_text_n66V4f",
-        "dynamic_image_text_CTQnRj",
-        "dynamic_image_text_9JGDKG",
-        "dynamic_image_text_784dTm",
-        "dynamic_image_text_9gVCcJ",
-        "dynamic_image_text_FMx98w"
+        "dynamic_image_text_wNEb7e",
+        "dynamic_image_text_XjwzNH",
+        "dynamic_image_text_CmM9pP",
+        "dynamic_image_text_L43i9E",
+        "dynamic_image_text_gCbnyn",
+        "dynamic_image_text_p8mg4y",
+        "dynamic_image_text_RkVrDa",
+        "dynamic_image_text_pUQ9Tj",
+        "dynamic_image_text_xCngAE",
+        "dynamic_image_text_wGNLrT",
+        "dynamic_image_text_qHiRr6"
       ],
       "settings": {
         "title": "Nos tableaux à travers vos yeux ❤️",
@@ -251,8 +251,8 @@
         "background_repeat": "no-repeat",
         "duration_image_appearance": 3,
         "section_background_color": "F5F3EE",
-        "margin_top": 0,
-        "margin_bottom": 0
+        "margin_top": 25,
+        "margin_bottom": 35
       }
     },
     "93722040-a60d-4e51-ab10-31ddb825074f": {
@@ -577,7 +577,7 @@
   "order": [
     "e866d1c5-952e-4bd3-9993-c0aff8a44480",
     "main",
-    "dynamic_image_text_H4zdDe",
+    "dynamic_image_text_YJgPLx",
     "93722040-a60d-4e51-ab10-31ddb825074f",
     "main-product-recommendations",
     "16637725317f40c776",
